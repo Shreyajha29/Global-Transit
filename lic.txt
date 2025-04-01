@@ -1,0 +1,35 @@
+**GLOBAL TRANSIT APPLICATION END-USER LICENSE AGREEMENT**
+
+IMPORTANT: READ THIS AGREEMENT BEFORE INSTALLING THE APPLICATION.
+
+By downloading, installing, or using the Global Transit Application, you agree to be bound by the terms of this End-User License Agreement. If you do not agree to these terms, do not install or use the Application.
+
+1. LICENSE GRANT
+Licensor grants User a non-exclusive, non-transferable, revocable license to install and use the Application on a compatible device for personal or commercial purposes, subject to the terms herein.
+
+2. RESTRICTIONS
+User shall not:
+- Modify, reverse engineer, decompile, or disassemble the Application.
+- Distribute, sublicense, rent, lease, or sell the Application.
+- Use the Application for any illegal or unauthorized purpose.
+
+3. INSTALLATION AND UPDATES
+By installing the Application, User acknowledges that the Application may require updates or modifications, and continued use may depend on accepting such updates.
+
+4. DATA COLLECTION & PRIVACY
+By installing the Application, User consents to data collection in accordance with the Privacy Policy, which is incorporated herein by reference.
+
+5. DISCLAIMER OF WARRANTIES
+The Application is provided "as is" without warranties of any kind, express or implied. Licensor does not guarantee that the Application will function without errors or interruptions.
+
+6. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, Licensor shall not be liable for any damages arising from the use or inability to use the Application.
+
+7. TERMINATION
+This Agreement is effective upon installation and continues until terminated. Licensor may terminate this Agreement if User breaches any terms. Upon termination, User must uninstall the Application.
+
+8. CONTACT INFORMATION
+For any inquiries regarding this Agreement, contact: [shreyaj1231@gmail.com].
+
+By proceeding with the installation, you acknowledge that you have read, understood, and agreed to this Agreement.
+
